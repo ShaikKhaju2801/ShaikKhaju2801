@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShaikKhaju2801
 - 👀 I’m interested in programming and help in projects which involves C,C++,Python,SIMD and Vectorization(for DSP processors for optimization).
-- 💞️ I’m looking to collaborate on help in projects which involves C,C++,Python,SIMD and Vectorization(for DSP processors for optimization).
+- 💞️ I’m looking to collaborate on projects which involves C,C++,Python,SIMD and Vectorization(for DSP processors for optimization).
 - 📫 How to reach me? You can reach me on shaikkhajarahmatulla2801@gmail.com
 
 <!---
